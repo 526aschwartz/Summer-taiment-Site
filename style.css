@@ -1,3 +1,5 @@
+
+
 .container {
     position: relative;
     width: 100%;
@@ -34,7 +36,7 @@
     font-family: "summa", serif;
     font-weight: 500;
     font-style: normal;
-    color: white;
+    color: BLACK;
     font-size: 25vw;
     position: absolute;
     top: 50%;
@@ -44,4 +46,46 @@
     transform: translate(-50%, -50%);
     text-align: center;
   }
+
+  html {
+    height: 100%;
+    width: 100%;
+  }
   
+  body {
+    background-color: #c4e1eb;
+    margin-bottom: 5px;
+  }
+  
+  nav {
+    background-color: #c9e5ee;
+    font-size: 50px;
+    text-align: center;
+  }
+  
+  .navbar-nav .nav-item .nav-link:hover {
+    color: white !important;
+    background-color: #9be1f8;
+  }
+  
+  .nav-link {
+    font-size: 50px;
+    font-family: "pf-mediterra", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .navbar-brand {
+    font-size: 100px;
+    font-family: "pf-mediterra", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  } 
+  
+  .index {
+    margin-bottom: 4px;
+  }
+
+  footer {
+    margin-bottom: 5px;
+  }
