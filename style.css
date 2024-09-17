@@ -36,7 +36,7 @@
     font-family: "summa", serif;
     font-weight: 500;
     font-style: normal;
-    color: BLACK;
+    color: black;
     font-size: 25vw;
     position: absolute;
     top: 50%;
@@ -89,3 +89,68 @@
   footer {
     padding-bottom: 10px;
   }
+
+  .hoteltype{
+    background-color: #8ed4ec;
+  }
+  
+  .type{
+    background-color: #8ed4ec;
+  }
+  
+  .hotel {
+    font-family: "pinot-grigio-modern", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+    font-size: 60px;
+  }
+  
+  .btn {
+    background-color: #5cd6ff;
+    text-decoration: none;
+    color: black;
+    font-family: "pinot-grigio-modern", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .btn:hover {
+    background-color: #b9e3f8;
+  }
+  
+  .card {
+    padding: 14px;
+    width: 18rem;
+    height: 23rem;
+    background-color: #8ed4ec;
+    border: solid #5cd6ff 3px;
+  }
+  
+  .card-title {
+    font-family: "pinot-grigio-modern", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: black;
+  }
+
+  h2 {
+    text-align: center;
+    padding-top: 35px;
+    font-family: "crassula", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+  }
+
+  h4 {
+    text-align: center;
+    font-family: "crassula", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+  }
+
+.img {
+
+}
